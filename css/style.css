@@ -1,0 +1,21 @@
+
+
+.details {
+    min-height: 20px;
+    background-color: darkseagreen;
+}
+
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#intro {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.description {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    }
