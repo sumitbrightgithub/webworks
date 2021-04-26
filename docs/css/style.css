@@ -1,21 +1,95 @@
 
+.redbox {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: absolute;
+    left: 127px;
+    
+}
+.greenbox {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: relative;
+    
+}
+.bluebox {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: relative;
+    left: 120px;
+  
+}
+
+.orangebox {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: absolute;
+    top: 120px;
+}
+    
+.cyanbox {
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: absolute;
+    top: 0px;
+    left: 245px;
+}
+
+.magnetabox {
+    background-color: magenta;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: absolute;
+    top: 0px;
+    left:360px;
+    
+}
 
 .details {
-    min-height: 20px;
-    background-color: darkseagreen;
+    background-color:#71a400;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
 }
 
 body {
+    min-height: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 #intro {
-    margin-bottom: 0px;
-    margin-top: 0px;
+    font-size:larger;
+    background-color:#7122bd;
+    color:red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 520px;
+    margin-right: 500px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align-last: center;
 }
 
-.description {
-    margin-bottom: 0px;
-    margin-top: 0px;
-    }
+.description{
+    padding-left: 500px;
+    padding-right: 500px;
+    font-size: xx-large;
+    text-align: -webkit-center;
+    background: azure;
+}
